@@ -1,0 +1,14 @@
+C:\Users\clare\OneDrive\Documents\Mylene\Operators Assignment\obj\Debug\net11.0\Operators Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clare\OneDrive\Documents\Mylene\Operators Assignment\obj\Debug\net11.0\Operators Assignment.AssemblyInfoInputs.cache
+C:\Users\clare\OneDrive\Documents\Mylene\Operators Assignment\obj\Debug\net11.0\Operators Assignment.AssemblyInfo.cs
+C:\Users\clare\OneDrive\Documents\Mylene\Operators Assignment\obj\Debug\net11.0\Operators Assignment.csproj.CoreCompileInputs.cache
+C:\Users\clare\OneDrive\Documents\Mylene\Operators Assignment\bin\Debug\net11.0\Operators Assignment.exe
+C:\Users\clare\OneDrive\Documents\Mylene\Operators Assignment\bin\Debug\net11.0\Operators Assignment.deps.json
+C:\Users\clare\OneDrive\Documents\Mylene\Operators Assignment\bin\Debug\net11.0\Operators Assignment.runtimeconfig.json
+C:\Users\clare\OneDrive\Documents\Mylene\Operators Assignment\bin\Debug\net11.0\Operators Assignment.dll
+C:\Users\clare\OneDrive\Documents\Mylene\Operators Assignment\bin\Debug\net11.0\Operators Assignment.pdb
+C:\Users\clare\OneDrive\Documents\Mylene\Operators Assignment\obj\Debug\net11.0\Operators Assignment.dll
+C:\Users\clare\OneDrive\Documents\Mylene\Operators Assignment\obj\Debug\net11.0\refint\Operators Assignment.dll
+C:\Users\clare\OneDrive\Documents\Mylene\Operators Assignment\obj\Debug\net11.0\Operators Assignment.pdb
+C:\Users\clare\OneDrive\Documents\Mylene\Operators Assignment\obj\Debug\net11.0\Operators Assignment.genruntimeconfig.cache
+C:\Users\clare\OneDrive\Documents\Mylene\Operators Assignment\obj\Debug\net11.0\ref\Operators Assignment.dll
